@@ -106,4 +106,8 @@ body {
   background: #19212e;
   color: white;
 }
+
+.testimonial--blakishblue .testimonial_header img {
+  border-color: #7541c8 !important;
+}
 /*# sourceMappingURL=styles.css.map */

@@ -48,4 +48,7 @@
 .testimonial--blakishblue {
     background: $Very-dark-blackish-blue;
     color: $White;
+    .testimonial_header img {
+        border-color: $Moderate-violet !important;
+    }
 }
