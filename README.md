@@ -10,6 +10,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -44,6 +45,10 @@ Users should be able to:
 - [Sass](https://sass-lang.com/)
 - CSS Grid
 - Mobile-first workflow
+
+### What I learned
+
+I was able to practice my skills in using grid once again through this project. I used `grid-template-columns` and `grid-template-rows` property in CSS to sort it out.
 
 ## Author
 
